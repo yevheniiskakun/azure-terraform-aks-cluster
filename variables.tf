@@ -9,5 +9,5 @@ variable "password" {
 variable "location" {
     type = string
   description = "Location where recources will be deployed"
-  default = "northeurope"
+  default = "eastus"
 }
